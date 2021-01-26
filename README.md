@@ -41,11 +41,11 @@ This project was developed to train my skills in front-end and back-end with the
 
 To clone and run this application, you'll need [Git](https://gitforwindows.org/), [Node.js v12.18.0][NodeJS] or higher installed on your computer and the [First Project](https://github.com/Matheus-nb/LaunchStore). From your command line:
 
-### Install NLW
+### Install LAUNCHSTORE
 ```bash
 
-# Go into the Foodfy path
-$ cd Foodfy
+# Go into the LaunchStore path
+$ cd LaunchStore
 
 # Install dependencies
 $ npm install
